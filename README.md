@@ -4,74 +4,60 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online 29 | Python | Semana 11 | 2024 | Professora Stefany Gracy
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
 * Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
+* [Add outras instruções caso necessário]
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+* [Análise de Dados](#analise-de-dados)
+* [Limpeza dos Dados](#limpeza-dos-dados)
+* [Visualização dos Dados](#visualizacao-dos-dados)
 
 ## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-   
-### Tema3
-1. [Tópico 4](#topico4)
+### Análise de Dados 
+A análise de dados é o processo de examinar, limpar, transformar e modelar dados com o objetivo de descobrir informações úteis, tirar conclusões e apoiar a tomada de decisões. Utiliza ferramentas e técnicas para identificar padrões, tendências e insights que podem ser usados para resolver problemas e melhorar estratégias organizacionais.
 
-### Tema1 
+### Limpeza dos Dados
+A etapa de limpeza na análise de dados com Python e Pandas envolve importar, limpar, explorar e analisar dados de maneira eficaz. A biblioteca Pandas permite a manipulação de dados, incluindo limpeza, resumo estatístico e agrupamento. Com o uso de bibliotecas de visualização como Matplotlib, Python e Pandas se tornam ferramentas poderosas para transformar dados em informações claras, ajudando na tomada de decisões informadas.
 
-#### Topico1
+A limpeza de dados é fundamental porque:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
+* **Precisão**: Dados brutos frequentemente contêm erros, duplicações e inconsistências. Limpar os dados garante que as análises e conclusões sejam baseadas em informações precisas.
+* **Confiabilidade**: Dados limpos aumentam a confiabilidade das análises, reduzindo a chance de resultados enganosos que podem ocorrer devido a dados incorretos ou incompletos.
+* **Eficiência**: Dados bem organizados facilitam a análise e reduzem o tempo e esforço necessários para manipulação e processamento, permitindo focar mais na interpretação e uso dos resultados.
+* **Decisões Informadas**: Informações precisas e confiáveis são essenciais para a tomada de decisões. Dados limpos garantem que as decisões sejam baseadas em fatos corretos e relevantes.
+* **Detecção de Padrões**: Dados livres de ruídos e inconsistências facilitam a detecção de padrões e tendências, essenciais para análises preditivas e insights valiosos.
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
+### Visualização dos Dados
+Para apresentar visualizações e insights de dados de forma eficaz para clientes, é necessário criar relatórios bem estruturados com introdução, metodologia, resultados, conclusões e recomendações. A análise de dados inclui a importação, limpeza, tratamento e manipulação dos dados com Pandas, além de gerar resumos estatísticos e visualizações com Matplotlib. A limpeza e organização dos dados garantem a precisão e confiabilidade das análises, permitindo decisões informadas. Usar storytelling com dados ajuda a engajar o público e destacar insights importantes. Apresentações devem ser adaptadas ao público, claras, concisas e bem praticadas. Uma boa análise de dados é essencial porque transforma dados brutos em informações valiosas, apoia decisões estratégicas, melhora a eficiência organizacional e ajuda a entender tendências e comportamentos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
+Pontos importantes para uma boa análise de dados:
 
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+* Importação e limpeza de dados.
+* Tratamento e manipulação dos dados.
+* Geração de resumos estatísticos.
+* Criação de visualizações claras e informativas.
+* Uso de storytelling para engajar e explicar.
+* Apresentação adaptada ao público e bem estruturada.
 
 ***
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercício para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
+* [Exercício para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [Como gerar bons relatórios de Análises de Dados](https://toccato.com.br/blog/como-fazer-um-relatorio-e-apresentar-dados-de-forma-impactante/)
+- [Como otimizar o relatórios de Análise de dados](https://toccato.com.br/blog/6-dicas-para-otimizar-o-processo-de-criacao-do-seu-relatorio-de-dados/)
+- [Storytelling](https://rockcontent.com/br/blog/o-que-e-storytelling-guia-para-voce-dominar-a-arte-de-contar-historias/)
+
 
 
 <p align="center">
